@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Ankur%20Yadav%20👋&fontSize=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Ankur%20Yadav%20 &fontSize=40&animation=fadeIn" width="100%"/>
 </div>
 
 ### 🎓 BCA Graduate | Full-Stack MERN Developer | Aspiring Android Developer
