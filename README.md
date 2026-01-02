@@ -1,74 +1,55 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Ankur%20Yadav%20 &fontSize=40&animation=fadeIn" width="100%"/>
-</div>
+# Hi there, I'm Ankur Yadav 
 
-### 🎓 BCA Graduate | Full-Stack MERN Developer | Aspiring Android Developer
+### Full-Stack MERN Developer | Android Developer | Tech Enthusiast
+*Passionate about building scalable web architectures and seamless mobile experiences.*
 
 ---
 
-### 🚀 About Me
-- 🎓 **BCA Graduate** specialising in scalable software architecture.
-- 💻 **MERN Stack Expert:** Proficient in building robust web applications with **Next.js 15**.
-- 📱 **Android Developer:** Creating native experiences using **Kotlin** and **React Native**.
+###  About Me
+
+I am a **BCA Graduate** with a strong foundation in software development. I specialise in the **MERN Stack** and am currently expanding my expertise in **Android Development** using Kotlin and React Native. I love solving complex problems and turning ideas into functional, user-centric applications.
+
+-  I’m currently working on **Scalable Web Applications**.
+-  I’m currently learning **Advanced Kotlin & System Design**.
+-  Ask me about **Next.js, React, or MongoDB**.
+-  Fun fact: I believe clean code is a love letter to the next developer.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-<table border="0">
- <tr>
-    <td><b>Web</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
- </tr>
- <tr>
-    <td><b>Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    </td>
- </tr>
- <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-    </td>
- </tr>
-</table>
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **Mobile** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ank09yadav&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ank09yadav&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### 📈 Work & Experience
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ank09yadav&theme=tokyonight&hide_border=true" width="97%" />
-</p>
+- **Full-Stack Development:** Developed multiple end-to-end web applications using Next.js 15 and Node.js, focusing on performance and SEO.
+- **Android Apps:** Built native utility applications using Kotlin, ensuring smooth UI/UX and efficient memory management.
+- **Database Management:** Expert in designing relational and non-relational schemas for high-traffic applications.
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/ank09yadav" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
-<a href="https://t.me/ank09yadav" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/></a>
-<a href="https://instagram.com/ank.0119.yadav" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
-<a href="https://discord.com/users/ank09yadav" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30"/></a>
-</p>
+### 🌐 Let's Connect
+
+Stay in touch or reach out for collaborations:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ank09yadav)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ank09yadav)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ank.0119.yadav)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ank09yadav)
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ank09yadav&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  <b>Ank09yadav • 2026</b>
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
 </p>
