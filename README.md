@@ -7,7 +7,7 @@
 
 ###  About Me
 
-I am a **BCA Graduate** with a strong foundation in software development. I specialise in the **MERN Stack** and am currently expanding my expertise in **Android Development** using Kotlin and React Native. I love solving complex problems and turning ideas into functional, user-centric applications.
+A CS student with a strong foundation in software development. I specialise in the **MERN Stack** and am currently expanding my expertise in **Android Development** using Kotlin and React Native. I love solving complex problems and turning ideas into functional, user-centric applications.
 
 -  I’m currently working on **Scalable Web Applications**.
 -  I’m currently learning **Advanced Kotlin & System Design**.
